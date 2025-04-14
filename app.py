@@ -12,7 +12,6 @@ st.sidebar.markdown("""
 **Made by:** Swastik Kaushal  
 📧 [Email](mailto:your_email@example.com)  
 🌐 [GitHub](https://github.com/SwastikKaushal1)  
-💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
 """)
 
 
